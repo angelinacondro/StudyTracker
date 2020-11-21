@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hai">Hello</string>
+    <string name="schedule">This is your schedule for today</string>
+    <string name="app_name">StudyTracker</string>
+    <string name="start">Start Now</string>
+</resources>
