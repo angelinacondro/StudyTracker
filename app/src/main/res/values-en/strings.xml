@@ -4,4 +4,12 @@
     <string name="schedule">This is your schedule for today</string>
     <string name="app_name">StudyTracker</string>
     <string name="start">Start Now</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_schedule">Schedule</string>
+    <string name="menu_songplaylist">Song Playlist</string>
+    <string name="add_song">Add Song</string>
+    <string name="choose_music">Choose Music</string>
+    <string name="menu_logout">Logout</string>
 </resources>

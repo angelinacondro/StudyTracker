@@ -4,4 +4,12 @@
     <string name="schedule">Ini adalah jadwal kamu untuk hari ini</string>
     <string name="app_name">StudyTracker</string>
     <string name="start">Mulai</string>
+    <string name="open">Buka</string>
+    <string name="close">Tutup</string>
+    <string name="menu_home">Beranda</string>
+    <string name="menu_schedule">Jadwal</string>
+    <string name="menu_songplaylist">Playlist Lagu</string>
+    <string name="add_song">Tambah Lagu</string>
+    <string name="choose_music">Pilih Lagu</string>
+    <string name="menu_logout">Keluar</string>
 </resources>

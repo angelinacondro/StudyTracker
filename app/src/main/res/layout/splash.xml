@@ -4,27 +4,22 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".activity.SplashScreen"
-    android:background="#4D4D4D">
+    tools:context="id.ac.ui.cs.mobileprogramming.angelinacondro.focus.activity.SplashScreen"
+    android:background="@color/colorPrimary">
 
+    <id.ac.ui.cs.mobileprogramming.angelinacondro.focus.openGL.OpenGLView
+        android:id="@+id/openGLView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
 
 <!--    <ImageView-->
-<!--        android:layout_width="200dp"-->
-<!--        android:layout_height="200dp"-->
-<!--        android:src="@drawable/logo_firodev"-->
-<!--        android:layout_centerInParent="true"/>-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="80dp"-->
+<!--        android:src="@drawable/focus"-->
+<!--        android:layout_centerInParent="true"-->
+<!--        android:contentDescription="Focus"-->
+<!--        android:id="@+id/focus">-->
+<!--    </ImageView>-->
 
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_marginLeft="115dp"
-        android:layout_marginBottom="354dp"
-        android:fontFamily="sans-serif-light"
-        android:text="StudyTracker"
-        android:textColor="#fff"
-        android:textSize="32sp"
-        android:textStyle="normal" />
 
 </RelativeLayout>

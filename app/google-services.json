@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "375491411842",
+    "firebase_url": "https://studytracker-15b6e-default-rtdb.firebaseio.com",
+    "project_id": "studytracker-15b6e",
+    "storage_bucket": "studytracker-15b6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375491411842:android:5e51e98277fd438ca7d99b",
+        "android_client_info": {
+          "package_name": "id.ac.ui.cs.mobileprogramming.angelinacondro.focus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375491411842-nhvgpde848rq8n4vt8jgik77g06qa7go.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.ac.ui.cs.mobileprogramming.angelinacondro.focus",
+            "certificate_hash": "9971394c57fad0e8cb08e9e1a74a64770239f408"
+          }
+        },
+        {
+          "client_id": "375491411842-4igocqfaaj91h5hrsqoee5lfois428sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh2n1ZAY_l_GJ1gpG7eR8ypN-bsmKVvMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375491411842-4igocqfaaj91h5hrsqoee5lfois428sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
