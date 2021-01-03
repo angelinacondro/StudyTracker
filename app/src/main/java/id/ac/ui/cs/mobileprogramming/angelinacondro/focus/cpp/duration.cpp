@@ -9,7 +9,7 @@
 
 extern "C"
 JNIEXPORT jlong JNICALL
-Java_com_angelinacondro_studytracker_fragment_NativeLibrary_countDifference (JNIEnv *env,  jobject thiz, jlong timeStarts, jlong timeEnds){
+Java_id_ac_ui_cs_mobileprogramming_angelinacondro_focus_fragment_NativeLibrary_countDifference (JNIEnv *env,  jobject thiz, jlong timeStarts, jlong timeEnds){
     long difference = timeEnds - timeStarts;
     return difference;
 }
